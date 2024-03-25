@@ -17,14 +17,8 @@ Step 5.
 
 Enjoy! make sure to tell me when it completely stop working so i can post a new one.
 
----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 
-         /\
-        /  \
-       /    \
-      /   |  \
-     /    |   \                                  USE AT YOUR OWN RISK!
-    /     |    \               
-   /            \            I AM NOT AT FAULT IF YOU GET IN ANY SORT OF TROUBLE BY USING THESE CODES
-  /       O      \
- /________________\
+                           Warning!!!
+                   use this code at your own risk 
+ i am not responsible for any trouble you have came accross when using this code, 
