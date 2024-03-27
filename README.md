@@ -4,7 +4,9 @@ date: 3/21/2024 | working
 -----------------------------
 
 current known problems:
+
 it wont skip the tower on power.
+
 works once or not at all if another hack has been used.
 
 ---------------------------
